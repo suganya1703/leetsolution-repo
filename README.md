@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0212-word-search-ii](https://github.com/suganya1703/leetsolution-repo/tree/master/0212-word-search-ii) |
 | [0217-contains-duplicate](https://github.com/suganya1703/leetsolution-repo/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0212-word-search-ii](https://github.com/suganya1703/leetsolution-repo/tree/master/0212-word-search-ii) |
 | [0227-basic-calculator-ii](https://github.com/suganya1703/leetsolution-repo/tree/master/0227-basic-calculator-ii) |
 ## Stack
 |  |
@@ -57,4 +59,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/suganya1703/leetsolution-repo/tree/master/0145-binary-tree-postorder-traversal) |
+## Backtracking
+|  |
+| ------- |
+| [0212-word-search-ii](https://github.com/suganya1703/leetsolution-repo/tree/master/0212-word-search-ii) |
+## Trie
+|  |
+| ------- |
+| [0212-word-search-ii](https://github.com/suganya1703/leetsolution-repo/tree/master/0212-word-search-ii) |
+## Matrix
+|  |
+| ------- |
+| [0212-word-search-ii](https://github.com/suganya1703/leetsolution-repo/tree/master/0212-word-search-ii) |
 <!---LeetCode Topics End-->
