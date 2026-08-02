@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/suganya1703/leetsolution-repo/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/suganya1703/leetsolution-repo/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0212-word-search-ii](https://github.com/suganya1703/leetsolution-repo/tree/master/0212-word-search-ii) |
 | [0217-contains-duplicate](https://github.com/suganya1703/leetsolution-repo/tree/master/0217-contains-duplicate) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/suganya1703/leetsolution-repo/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/suganya1703/leetsolution-repo/tree/master/0148-sort-list) |
 ## Merge Sort
 |  |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/suganya1703/leetsolution-repo/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/suganya1703/leetsolution-repo/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Prefix Sum
 |  |
