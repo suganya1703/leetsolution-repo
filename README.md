@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/suganya1703/leetsolution-repo/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/suganya1703/leetsolution-repo/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/suganya1703/leetsolution-repo/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0212-word-search-ii](https://github.com/suganya1703/leetsolution-repo/tree/master/0212-word-search-ii) |
 | [0217-contains-duplicate](https://github.com/suganya1703/leetsolution-repo/tree/master/0217-contains-duplicate) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/suganya1703/leetsolution-repo/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/suganya1703/leetsolution-repo/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/suganya1703/leetsolution-repo/tree/master/0217-contains-duplicate) |
 ## Math
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/suganya1703/leetsolution-repo/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/suganya1703/leetsolution-repo/tree/master/0148-sort-list) |
 ## Divide and Conquer
 |  |
@@ -95,4 +98,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/suganya1703/leetsolution-repo/tree/master/0918-maximum-sum-circular-subarray) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/suganya1703/leetsolution-repo/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/suganya1703/leetsolution-repo/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
