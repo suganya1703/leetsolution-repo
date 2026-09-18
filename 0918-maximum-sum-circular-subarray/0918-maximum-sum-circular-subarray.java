@@ -3,8 +3,8 @@ class Solution {
 
         int n = A.length;
 
-        int max_straight_SUM = Integer.MIN_VALUE;
-        int min_straight_SUM = Integer.MAX_VALUE;
+        int max_straight_sum = Integer.MIN_VALUE;
+        int min_straight_sum = Integer.MAX_VALUE;
 
         int array_SUM = 0;
 
@@ -18,8 +18,8 @@ class Solution {
             // Maximum subarray sum
             temp_maxSUM += A[i];
 
-            if (temp_maxSUM > max_straight_SUM) {
-                max_straight_SUM = temp_maxSUM;
+            if (temp_maxSUM > max_straight_sum) {
+                max_straight_sum = temp_maxSUM;
             }
 
             if (temp_maxSUM < 0) {
@@ -29,8 +29,8 @@ class Solution {
             // Minimum subarray sum
             temp_minSUM += A[i];
 
-            if (temp_minSUM < min_straight_SUM) {
-                min_straight_SUM = temp_minSUM;
+            if (temp_minSUM < min_straight_sum) {
+                min_straight_sum = temp_minSUM;
             }
 
             if (temp_minSUM > 0) {
@@ -39,14 +39,14 @@ class Solution {
         }
 
         // If all elements are negative
-        if (array_SUM == min_straight_SUM) {
-            return max_straight_SUM;
+        if (array_SUM == min_straight_sum) {
+            return max_straight_sum;
         }
 
         // Normal maximum vs circular maximum
         return Math.max(
-            max_straight_SUM,
-            array_SUM - min_straight_SUM
+            max_straight_sum,
+            array_SUM - min_straight_sum
         );
     }
 }
