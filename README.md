@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/suganya1703/leetsolution-repo/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/suganya1703/leetsolution-repo/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/suganya1703/leetsolution-repo/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/suganya1703/leetsolution-repo/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0212-word-search-ii](https://github.com/suganya1703/leetsolution-repo/tree/master/0212-word-search-ii) |
 | [0217-contains-duplicate](https://github.com/suganya1703/leetsolution-repo/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/suganya1703/leetsolution-repo/tree/master/0238-product-of-array-except-self) |
@@ -113,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/suganya1703/leetsolution-repo/tree/master/0075-sort-colors) |
+## Binary Search
+|  |
+| ------- |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/suganya1703/leetsolution-repo/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 <!---LeetCode Topics End-->
